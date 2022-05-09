@@ -1,0 +1,34 @@
+Person 1
+Name: Anyla Jacobs
+Identification Number: J425636
+Date of Birth: August 13, 1970
+Pay Rate: $25
+Gross Daily Pay: 200
+Gross Weekly Pay: 1000
+
+Person 2
+Name: Nadia McCoy
+Identification Number: M916584,
+Date of Birth: March 26, 1975,
+Pay Rate: $31.65
+Gross Daily Pay: 253.2
+Gross Weekly Pay: 1266
+
+Student 1
+Name: John Smith
+Identification Number: S521695
+Date of Birth: May 3, 1997
+Graduation Date: December 12, 2019
+Major: Networking Administration
+Gpa: 3.67
+Pay Rate: $10.5
+Gross Weekly Pay min 15 hours: 157.5
+Gross Weekly Pay max 19 hours: 199.5
+
+Student 2
+Name: Elenor Applecrumb
+Identification Number: A258745
+Date of Birth: June 30, 2000
+Graduation Date: May 5, 2020
+Major: Business	Entrepreneurship
+Gpa: 2.91
