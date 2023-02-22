@@ -6,7 +6,7 @@ int main(){
     
     scanf("%f", &temp);
 
-    temp >= 75 ? printf("It is hot outside."): printf("It is cold outside.");
+    temp >= 73 ? printf("It is hot outside."): printf("It is cold outside.");
     
     return 0;
 
