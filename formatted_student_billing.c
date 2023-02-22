@@ -1,9 +1,3 @@
-/*Student Assignment Submission Form
-I declare that the attached assignment is wholly my own work in accordance witH UCF Academic 
-Policy. No part of this assignment has been copied manually or electronically from any other 
-source (including web sites) or distributed to other students. My name is: LITTLE NATHAN, 
-Date: 02/12/2023 */
-
 #include <stdio.h>
 
 #include <string.h> //for strcat()
@@ -15,7 +9,7 @@ int main(){
     //ALL CHARACTER VARIABLES INITIALIZED HERE
     char Yes_Housing, Yes_Meal, Yes_Park;
     //ALL FLOAT VARIABLES INITIALIZED HERE
-    float Semester_Total, Discount = 0.08, Discount_Total, Pre_Tax_Tot, Tax_Rate = .06, Tax_Total, Final_Total;
+    float Semester_Total, Discount = 0.10, Discount_Total, Pre_Tax_Tot, Tax_Rate = .08, Tax_Total, Final_Total;
     //STRINGS TO MAKE THE BILL DETAIL'S STRING FORMATTING EASIER
     char Houstring[] = "On-Campus Housing";
     char cable[] = "Cable: ";
@@ -23,8 +17,8 @@ int main(){
     char ent_2[] = "Entertainment Premium";
     
     //These arrays are for easier reference to the costs of services.
-    float Housing[] = {1521.79, 2365.83, 3139.01};
-    float Meal[] = {782.50, 1356.12, 1832.39};
+    float Housing[] = {1091.69, 1905.53, 2781.90};
+    float Meal[] = {412.71, 802.85, 1242.42};
     float Park[] = {455.55, 995.99};
     float Tele[] = {39.01, 99.99};
     //INTRODUCTION I/O FOR THE USERS
